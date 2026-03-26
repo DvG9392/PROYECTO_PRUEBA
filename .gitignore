@@ -1,3 +1,5 @@
 privado.txt
 .venv/
 *.csv
+*.xls
+*.xlsx
