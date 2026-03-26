@@ -1,3 +1,5 @@
+import pandas as pd
+
 saludo = "Hola"
 despedida = "Adiós"
 
@@ -13,3 +15,6 @@ else:
 
 
 # Este programa saluda al usuar djdhd
+print(pd.DataFrame({
+"nombre" : [nombre]
+}, columns=["Nombre"]))
