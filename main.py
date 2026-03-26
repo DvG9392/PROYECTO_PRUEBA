@@ -12,6 +12,7 @@ if int(edad) >= 18:
 
 else:
    print(despedida +", " + nombre)
+   print("Lo siento, no puedes entrar al sitio web.")
 
 
 # Este programa saluda al usuar djdhd
